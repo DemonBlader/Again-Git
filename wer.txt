@@ -1,6 +1,4 @@
 WOWWWW
-<<<<<<< HEAD
 xsxsx
-=======
 dcdcdc
->>>>>>> origin/master
+
